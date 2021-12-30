@@ -1,0 +1,26 @@
+{
+  "name": "jwt-rsa-verification",
+  "version": "1.0.0",
+  "description": "Signing and verifying JWT token using RSA 256 keys (public and private)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj87/jwt-rsa-verification.git"
+  },
+  "keywords": [
+    "RSA",
+    "JWT"
+  ],
+  "author": "Neeraj Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj87/jwt-rsa-verification/issues"
+  },
+  "homepage": "https://github.com/neeraj87/jwt-rsa-verification#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
